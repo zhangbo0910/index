@@ -1,0 +1,134 @@
+header{
+    padding: 16px;
+    background: #FFF;
+    border-bottom: 1px solid #e1e1e1;
+    position: relative;
+    box-shadow: 0 0 10px #ccc;
+}
+.header-box{
+    width:1200px;
+    margin: auto;
+    overflow: hidden;
+}
+.header-right{
+    float: right;
+    overflow: hidden;
+}
+.header-right p {
+    color: #aeaeae;
+    width:190px;
+    line-height: 30px;
+    float: left;
+}
+.header-right p  a{
+    color: #0066cc;
+}
+.right-box{
+    float: left;
+    width: 98px;
+    height:25px;
+    line-height: 25px;
+    border: 1px solid #ccc;
+    text-align: center;
+    color: #858585;
+    background:url("../images/turnb.png")no-repeat 75px 5px,
+    url("../images/runbun.png")no-repeat 6px 4px;
+}
+.cs:hover{
+    color: #f60;
+}
+section{
+    margin-top: 25px;
+}
+.section-box{
+    width: 330px;
+    margin: 0 auto;
+}
+.input1{
+    width: 230px;
+    height: 24px;
+    padding-left: 20px;
+    border: 0 none;
+    line-height: 24px;
+    font-size: 14px;
+}
+.h2{
+    text-align: center;
+    font: bold 24px/50px "microsoft yahei";
+    color: #333;
+    margin-bottom: 10px;
+}
+.input2{
+    width: 100%;
+    height: 24px;
+    padding: 0 20px;
+    border: 0 none;
+    line-height: 24px;
+    vertical-align: middle;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+.input-box{
+    width: 292px;
+    height: 24px;
+    margin-bottom: 10px;
+    padding: 14px 18px;
+    border: 1px solid #dedede;
+    background: #FFF;
+    line-height: 24px;
+}
+.input-box2{
+    width: 156px;
+    height: 24px;
+    margin-bottom: 10px;
+    padding: 14px 18px;
+    border: 1px solid #dedede;
+    background: #FFF;
+    line-height: 24px;
+    float: left;
+}
+.verification{
+    display: inline-block;
+    width: 126px;
+    height: 50px;
+    margin-left: 10px;
+    text-align: center;
+    background-color: #57565f;
+    font: bold 12px/52px "sisum";
+    color: #fff;
+    cursor: default;
+    border-radius: 2px;
+    font-size: 14px;
+    float: left;
+}
+.clear{
+    clear: both;
+}
+.ps{
+    text-indent: 1em;
+    height: 35px;
+    line-height: 35px;
+}
+.ps a{
+   color: #0066cc;
+}
+.submit{
+    width: 330px;
+    height: 52px;
+    border: 0 none;
+    border-radius: 3px;
+    background: #ff3c3c;
+    font-size: 16px;
+    color: #FFF;
+    line-height: 52px;
+}
+.footer{
+    text-align: center;
+    margin-top: 8px;
+    color: #333;
+    font-size: 12px;
+}
+footer{
+    width: 980px;
+    margin: 20px auto 0;
+}
